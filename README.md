@@ -1,7 +1,7 @@
 lineDrive
 =========
 
-Personal scooter line drive and collision avoidance warning system
+Personal Scooter / Electric Wheelchair Automatic Drive and Collision Avoidance Warning System
 
 Using:
 
